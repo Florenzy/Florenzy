@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Anton 👋
 
-<!--
-**Florenzy/Florenzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning frontend development and building practical projects along the way.
 
-Here are some ideas to get you started:
+## Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- Git & GitHub
+- JavaScript — next
+
+## Projects
+
+### Nexus
+A personal service hub that will connect my own apps and services.
+
+Current stage:
+- HTML structure
+- CSS styling
+- CSS positioning
+
+Planned:
+- Flexbox
+- Grid
+- Responsive layout
+- JavaScript
+- React
+- Backend integration
+
+## Long-term projects
+
+- NexusCloud — self-hosted personal cloud
+- NexusLibrary — personal book library
+- NexusWiki — personal knowledge base
+
+## Tech
+
+HTML · CSS · Git · GitHub
