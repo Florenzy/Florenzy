@@ -47,15 +47,15 @@ I'm currently improving my knowledge of:
 
 Personal cloud storage with authentication, file sharing and persistent storage.
 
-### Nexus
+### Koude
 
 A personal service dashboard for connecting different applications and services in one interface.
 
-### NexusLibrary
+### Koude Library
 
 A personal book library and CRUD application for tracking books and reading progress.
 
-### NexusWiki
+### Koude Wiki
 
 A personal knowledge base for organizing notes and information.
 
