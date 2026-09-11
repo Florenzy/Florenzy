@@ -27,9 +27,9 @@ It includes:
 **Stack:**
 Next.js · React · TypeScript · Node.js · PostgreSQL · REST API · Zod · Vitest · Docker · GitHub Actions
 
-## Currently learning
+## Current focus
 
-I'm currently improving my knowledge of:
+I'm currently going deeper into:
 
 * JavaScript
 * TypeScript
