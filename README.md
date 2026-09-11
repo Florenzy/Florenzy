@@ -1,80 +1,40 @@
 # Hi, I'm Anton 👋
 
-I'm a frontend-focused developer building practical full-stack projects with React, TypeScript and Next.js.
+I'm a frontend-focused developer building web applications with React, TypeScript and Next.js.
 
-Right now, I'm working on **Koude Cloud** — a personal cloud storage application with authentication, file management, PostgreSQL, REST APIs, testing and deployment automation.
+Currently building **Koude Cloud** — a personal cloud storage application with authentication, file management, PostgreSQL, REST APIs, testing and deployment automation.
 
-## Current project
-
-### Koude Cloud
-
-A full-stack personal cloud storage application built with Next.js, React and TypeScript.
-
-It includes:
-
-* User authentication
-* File upload and download
-* Folder management
-* File sharing
-* Storage quotas
-* PostgreSQL persistence
-* REST API
-* Server-side validation
-* Automated testing
-* Docker deployment
-* GitHub Actions CI/CD
-
-**Stack:**
-Next.js · React · TypeScript · Node.js · PostgreSQL · REST API · Zod · Vitest · Docker · GitHub Actions
-
-## Current focus
-
-I'm currently going deeper into:
-
-* JavaScript
-* TypeScript
-* React
-* Next.js
-* Backend development with Node.js
-* PostgreSQL and SQL
-* REST API design
-* Testing
-* Deployment and CI/CD
-
-## Projects
+## Featured Project
 
 ### Koude Cloud
 
-Personal cloud storage with authentication, file sharing and persistent storage.
+A full-stack personal cloud storage application built with Next.js, TypeScript and PostgreSQL.
 
-### Koude
+**Features:** authentication · file upload/download · folder management · file sharing · storage quotas · REST API · server-side validation · automated testing
 
-A personal service dashboard for connecting different applications and services in one interface.
+**Infrastructure:** Docker · GitHub Actions CI/CD
+
+**Stack:** Next.js · React · TypeScript · Node.js · PostgreSQL · Zod · Vitest
+
+## Selected Projects
+
+### Koude Cloud
+Personal cloud storage application with authentication, file sharing and persistent storage.
 
 ### Koude Library
+Full-stack library manager built with React, TypeScript, Node.js and SQLite.
 
-A personal book library and CRUD application for tracking books and reading progress.
+## Stack
 
-### Koude Wiki
+**Frontend**  
+React · TypeScript · Next.js · JavaScript · HTML · CSS
 
-A personal knowledge base for organizing notes and information.
+**Backend & Data**  
+Node.js · PostgreSQL · SQL · REST APIs
 
-## Tech
-
-**Frontend**
-
-HTML · CSS · JavaScript · TypeScript · React · Next.js
-
-**Backend**
-
-Node.js · REST API · PostgreSQL · SQL
-
-**Tools**
-
+**Tooling**  
 Git · GitHub · Docker · GitHub Actions · Vitest
 
-## What I'm working toward
+## Current Focus
 
-My current focus is becoming comfortable building complete web applications from frontend UI to backend APIs, databases, testing and deployment.
-
-I'm especially interested in frontend and full-stack development with the React and TypeScript ecosystem.
+Application architecture · Backend development · Database design · Testing · Docker · CI/CD
