@@ -6,22 +6,19 @@ Currently building **Koude Cloud** — a personal cloud storage application with
 
 ## Featured Project
 
-### Koude Cloud
+### [Koude Cloud](https://github.com/Florenzy/Koude-Cloud)
 
-A full-stack personal cloud storage application built with Next.js, TypeScript and PostgreSQL.
+A full-stack personal cloud storage application built with Next.js, React, TypeScript and PostgreSQL.
 
 **Features:** authentication · file upload/download · folder management · file sharing · storage quotas · REST API · server-side validation · automated testing
 
-**Infrastructure:** Docker · GitHub Actions CI/CD
+**DevOps:** Docker · GitHub Actions CI/CD
 
 **Stack:** Next.js · React · TypeScript · Node.js · PostgreSQL · Zod · Vitest
 
-## Selected Projects
+## Other Projects
 
-### Koude Cloud
-Personal cloud storage application with authentication, file sharing and persistent storage.
-
-### Koude Library
+### [Koude Library](https://github.com/Florenzy/Koude-Library)
 Full-stack library manager built with React, TypeScript, Node.js and SQLite.
 
 ## Stack
